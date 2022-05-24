@@ -1,17 +1,33 @@
-h1{
-    margin:0;
-    font-family:'Courier New', Courier, monospace;
-    padding:5px;
-    font-size: 40px;
+div button{
+    float:right;
+    border:1px solid white;
 }
-p{
-    font-size:20px
+.headderr{
+    width: 100%;
+    text-align: left;
+    padding:20px
 }
-canvas{
-    border: 1px 1px solid white;
-    margin-top:  100px;
-    box-shadow: 5px 5px 5px purple;
+.headderr h3{
+    display:inline;
 }
-body{
-    background-size: cover;
+.imag{
+    width: 100%;
+}
+.ee{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+#stastus,#playgame{
+font-size: 22px;
+}
+.aeaeea{
+    background-color: black;
+    line-height: 2;
+    margin: 0px;
+    color: azure;
+    width: 100%;
+    
 }
